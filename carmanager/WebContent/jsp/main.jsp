@@ -6,7 +6,7 @@
 <meta charset="UTF-8">
 <title>main</title>
 <Style>
-
+//헤헤 목요일이다 우헤헤헤헤헤ㅔ//
 html,body{
       width:100%;
       height:100%;
